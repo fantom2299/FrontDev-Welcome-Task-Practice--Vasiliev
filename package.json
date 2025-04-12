@@ -1,6 +1,7 @@
 {
   "name": "todo-task",
   "version": "0.1.0",
+  "homepage": "https://github.com/fantom2299/FrontDev-Welcome-Task-Practice--Vasiliev",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
